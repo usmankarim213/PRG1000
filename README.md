@@ -1,1 +1,3 @@
 # PRG1000
+
+# I løpet av emnet PRG1000 har jeg tilegnet meg grunnleggende kunnskap innen programmering og programvareutvikling. Arbeidet har hovedsakelig vært knyttet til praktiske øvingsoppgaver, individuell problemløsning og utvikling av mindre programmer. Jeg har benyttet Python (evt. annet språk) som hovedspråk, og fått erfaring med: Variabler, datatyper og kontrollstrukturer, funksjoner og modulbasert programmering, feilsøking og testing av kode, Grunnleggende algoritmisk tenkning Gjennom semesteret har jeg utviklet flere programmer som løser konkrete oppgaver, og jeg har gradvis fått bedre forståelse for logisk struktur og effektiv koding. Emnet har også bidratt til å styrke mine analytiske ferdigheter og evnen til å arbeide systematisk med tekniske problemer.
